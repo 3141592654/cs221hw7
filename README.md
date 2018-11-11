@@ -1,4 +1,4 @@
-# cs221hw7
+# cs221hw7. view in raw format
   Worked alone.
   To build project, run make.
   Submitted more files than listed. htree, for instance, from previous
